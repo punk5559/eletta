@@ -1,0 +1,130 @@
+.menuuu-btn {
+	cursor: pointer;
+	-moz-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-transition: all 300ms;
+	-moz-transition: all 300ms;
+	-ms-transition: all 300ms;
+	-o-transition: all 300ms;
+	transition: all 300ms;
+	margin: 0 15px 0 5px;
+	position: relative;
+	top: 3px;
+	left: 5px;
+}
+
+img.menuuu-btn {
+	width: 20px;
+	height: 20px;
+}
+.sidebar .menu-item {
+	padding-left: 40px !important;
+}
+.sidebar .menu-item-has-children {
+	padding-left: 0px !important;
+}
+
+.sub-menu {
+	display: none;
+}
+
+.sidebar-primary .current-menu-item .sub-menu {
+	display: block;
+}
+
+
+.sidebar .widget_nav_menu li {
+	margin: 0 !important;
+	border-bottom: 1px solid #ccc;
+}
+.sidebar .widget_nav_menu li a {
+	background: transparent !important;
+}
+
+.sidebar .sub-menu .menu-item, .sidebar .sub-menu .menu-item a {
+	background: #fff !important;
+	color: #777;
+	padding: 0;
+}
+
+.sidebar .sub-menu .menu-item {
+	margin-right: 20px !important;
+	margin-left: 20px !important;
+	padding: 10px;
+}
+
+.sidebar .sub-menu .current-menu-item {
+	margin-left: 40px;
+}
+.sidebar .sub-menu .current-menu-item a {
+	color: #c40f29;
+}
+
+.sidebar .sub-menu .menu-item a {
+	margin-left: -20px;
+}
+
+.sidebar ul {
+	background: #fff;
+}
+
+.sidebar li .sub-menu {
+	margin-top: 10px;
+	margin-bottom: -10px;
+	padding-left: 30px;
+}
+
+.sidebar li .sub-menu li:last-child {
+	border: none;
+}
+
+.current_page_parent a {
+	color: #fff;
+}
+
+
+@-webkit-keyframes ooost {
+	from {
+		-moz-transform: rotate(0deg);
+		-webkit-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	to {
+		-moz-transform: rotate(90deg);
+		-webkit-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		transform: rotate(90deg);
+	}
+}
+
+.nav-menu-ost-active {
+	-moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-animation-fill-mode: forwards;
+	
+}
+
+.sidebar-primary .current-menu-item img {
+	-moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.sidebar-primary .current-menu-item .nav-menu-ost-active {
+	-moz-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-animation-fill-mode: forwards;
+}

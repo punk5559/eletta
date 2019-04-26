@@ -1,0 +1,267 @@
+# Translation of Plugins - Simple Social Icons - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Simple Social Icons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-31 22:43:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Simple Social Icons - Stable (latest release)\n"
+
+#: simple-social-icons.php:193
+msgid "YouTube"
+msgstr "YouTube"
+
+#: simple-social-icons.php:185
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: simple-social-icons.php:177
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: simple-social-icons.php:173
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: simple-social-icons.php:145
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: simple-social-icons.php:141
+msgid "Instagram"
+msgstr "Instagram"
+
+#: simple-social-icons.php:129
+msgid "Flickr"
+msgstr "Flickr"
+
+#: simple-social-icons.php:117
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: simple-social-icons.php:125
+msgid "Facebook"
+msgstr "Facebook"
+
+#: simple-social-icons.php:137
+msgid "Google+"
+msgstr "Google+"
+
+#: simple-social-icons.php:161
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: simple-social-icons.php:165
+msgid "RSS"
+msgstr "RSS"
+
+#: simple-social-icons.php:181
+msgid "Twitter"
+msgstr "Twitter"
+
+#: simple-social-icons.php:189
+msgid "Xing"
+msgstr "Xing"
+
+#: simple-social-icons.php:169
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: simple-social-icons.php:109
+msgid "Behance"
+msgstr "Behance"
+
+#: simple-social-icons.php:133
+msgid "Github"
+msgstr "Github"
+
+#: simple-social-icons.php:113
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: simple-social-icons.php:121
+msgid "Email"
+msgstr "Email"
+
+#: simple-social-icons.php:168
+msgid "Snapchat URI"
+msgstr "Snapchat URI"
+
+#: simple-social-icons.php:188
+msgid "Xing URI"
+msgstr "Xing URI"
+
+#: simple-social-icons.php:305
+msgid "Icon Color:"
+msgstr "Ikonfärg:"
+
+#: simple-social-icons.php:153
+msgid "Periscope"
+msgstr "Periscope"
+
+#: simple-social-icons.php:152
+msgid "Periscope URI"
+msgstr "Periscope URI"
+
+#: simple-social-icons.php:149
+msgid "Medium"
+msgstr "Medium"
+
+#: simple-social-icons.php:148
+msgid "Medium URI"
+msgstr "Medium URI"
+
+#: simple-social-icons.php:157
+msgid "Phone"
+msgstr "Phone"
+
+#: simple-social-icons.php:156
+msgid "Phone URI"
+msgstr "Phone URI"
+
+#: simple-social-icons.php:108
+msgid "Behance URI"
+msgstr "Behance URI"
+
+#: simple-social-icons.php:307
+msgid "Icon Hover Color:"
+msgstr "Ikonens hovringsfärg:"
+
+#: simple-social-icons.php:299
+msgid "Align Right"
+msgstr "Högerjustera"
+
+#. Author URI of the plugin/theme
+msgid "http://www.nathanrice.net/"
+msgstr "http://www.nathanrice.net/"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/simple-social-icons/"
+msgstr "http://wordpress.org/plugins/simple-social-icons/"
+
+#. Author of the plugin/theme
+msgid "Nathan Rice"
+msgstr "Nathan Rice"
+
+#: simple-social-icons.php:313
+msgid "Border Color:"
+msgstr "Ramfärg:"
+
+#: simple-social-icons.php:309
+msgid "Background Color:"
+msgstr "Bakgrundsfärg:"
+
+#: simple-social-icons.php:311
+msgid "Background Hover Color:"
+msgstr "Bakgrundens hovringsfärg"
+
+#: simple-social-icons.php:315
+msgid "Border Hover Color:"
+msgstr "Ramens hovringsfärg:"
+
+#: simple-social-icons.php:297
+msgid "Align Left"
+msgstr "Vänsterjustera"
+
+#: simple-social-icons.php:298
+msgid "Align Center"
+msgstr "Centrerat"
+
+#: simple-social-icons.php:286
+msgid "Open links in new window?"
+msgstr "Öppna länkar i nytt fönster?"
+
+#: simple-social-icons.php:288
+msgid "Icon Size"
+msgstr "Ikonstorlek"
+
+#: simple-social-icons.php:295
+msgid "Alignment"
+msgstr "Justering"
+
+#: simple-social-icons.php:292
+msgid "Border Width:"
+msgstr "Rambredd:"
+
+#: simple-social-icons.php:284
+msgid "Title:"
+msgstr "Namn:"
+
+#: simple-social-icons.php:124
+msgid "Facebook URI"
+msgstr "Facebook URI"
+
+#: simple-social-icons.php:192
+msgid "YouTube URI"
+msgstr "YouTube URI"
+
+#: simple-social-icons.php:184
+msgid "Vimeo URI"
+msgstr "Vimeo URI"
+
+#: simple-social-icons.php:180
+msgid "Twitter URI"
+msgstr "Twitter URI"
+
+#: simple-social-icons.php:176
+msgid "Tumblr URI"
+msgstr "Tumblr URI"
+
+#: simple-social-icons.php:172
+msgid "StumbleUpon URI"
+msgstr "StumbleUpon URI"
+
+#: simple-social-icons.php:164
+msgid "RSS URI"
+msgstr "RSS URI"
+
+#: simple-social-icons.php:160
+msgid "Pinterest URI"
+msgstr "Pinterest URI"
+
+#: simple-social-icons.php:144
+msgid "Linkedin URI"
+msgstr "Linkedin URI"
+
+#: simple-social-icons.php:140
+msgid "Instagram URI"
+msgstr "Instagram URI"
+
+#: simple-social-icons.php:136
+msgid "Google+ URI"
+msgstr "Google+ URI"
+
+#: simple-social-icons.php:128
+msgid "Flickr URI"
+msgstr "Flickr URI"
+
+#: simple-social-icons.php:120
+msgid "Email URI"
+msgstr "Email URI"
+
+#: simple-social-icons.php:116
+msgid "Dribbble URI"
+msgstr "Dribbble URI"
+
+#: simple-social-icons.php:132
+msgid "GitHub URI"
+msgstr "GitHub URI"
+
+#: simple-social-icons.php:199
+msgid "Displays select social icons."
+msgstr "Visar valda sociala ikoner."
+
+#. #-#-#-#-#  tmp-simple-social-icons.pot (Simple Social Icons 2.0.1) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: simple-social-icons.php:206
+msgid "Simple Social Icons"
+msgstr "Simple Social Icons"
+
+#: simple-social-icons.php:112
+msgid "Bloglovin URI"
+msgstr "Bloglovin URI"
